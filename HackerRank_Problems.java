@@ -6,16 +6,18 @@
 package hackerrank_problems;
 
 /**
- *
+ * Complete the HackerRank Problems
+ * 
  * @author Stephen
+ * @version 1.0
  */
-public class HackerRank_Problems {
+class HackerRank_Problems {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println();
     }
     
 }
